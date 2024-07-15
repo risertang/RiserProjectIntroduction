@@ -193,4 +193,6 @@ Voxel Shadow是基于体素划分的方法, 使用可见性代替深度, 以一�
 
 
 ### 2.5 体积云分布定制与云雷达
-<video controls src="assets/97c5ec43997a7ea6b08a8b770f3f2504.mp4" title="Title"></video>
+见本人知乎博客
+https://zhuanlan.zhihu.com/p/580288506
+https://zhuanlan.zhihu.com/p/708847114
